@@ -13,3 +13,6 @@ celeJmeno = jmeno + " "+ prijmeni
 pozdrav = "ahoj, jmenuji se "+ celeJmeno
 
 print(pozdrav * 5)
+
+
+print("tralala zmena3")
