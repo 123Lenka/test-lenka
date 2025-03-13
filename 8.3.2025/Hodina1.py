@@ -82,3 +82,6 @@ school_report = [
 for subject in school_report:
     print(f"Název předmětu: {subject[0]}. Známka: {subject[1]}.")
 
+
+
+print ("pouzivam github")
