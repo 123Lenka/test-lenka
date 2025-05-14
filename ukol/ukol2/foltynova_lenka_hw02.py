@@ -29,8 +29,6 @@ for thing in new:
     movie[keys[4]] = thing[5].split(',')
     movies.append(movie)
 
-print(movies[16])
-
 with open('hw02_output.json', mode='w', encoding='utf-8') as file:
     json.dump(movies, file, indent=4, ensure_ascii=False)
 
