@@ -7,7 +7,7 @@ import re
 import json  # Import knihovny json pro práci s JSON daty
 
 # --- Konfigurace ---
-INPUT_FILE = 'data/tvoje_data.json'  # Změň na název tvého JSON souboru
+INPUT_FILE = 'dpd_getAll_country203.json'  # Změň na název tvého JSON souboru
 OUTPUT_FILE = INPUT_FILE.replace(".json", "") + "_kod_obce.csv"
 
 # Vstup - tvůj JSON soubor
